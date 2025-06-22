@@ -31,7 +31,7 @@ g++ main_jsbsim.cpp StandaloneJSBSimModel.cpp -o JsbSimApp -std=c++17 \
 
 这是改造后模型的公共接口，负责与JSBSim引擎直接交互。
 
------
+
 
 ### 3\. 独立JSBSim模型 - 实现文件 (`StandaloneJSBSimModel.cpp`)
 
